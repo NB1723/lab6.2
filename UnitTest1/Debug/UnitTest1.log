@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+F:\!!!___NB\ооп\lab6\Project62\Decimal.h(15,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project62\Decimal.h(16,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project62\Decimal.cpp(7,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project62\Decimal.cpp(15,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  UnitTest1.vcxproj -> F:\!!!___NB\ооп\lab6\Project62\Debug\UnitTest1.dll
